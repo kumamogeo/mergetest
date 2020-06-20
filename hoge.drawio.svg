@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="791px" height="571px" viewBox="-0.5 -0.5 791 571" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-06-20T20:28:35.947Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36&quot; etag=&quot;GfRFIs8mAsxZPl3iU-sc&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7ZbLcqMwEEW/RnuQYh5LPyeLmcrCi1nL0AZVBKJkOUC+fiQQD8WkkqlyZbIYbyxud0vqe0QhRLZF80PSKv8lUuAIe2mDyA5h7Hsh0X9GaXsliLxeyCRLbdIkHNkrDJVWvbIULk6iEoIrVrliIsoSEuVoVEpRu2lnwd1VK5rBjXBMKL9Vf7NU5b0a4XDSH4Fl+bCyH8R9pKBDsu3kktNU1DOJ7BHZSiFUPyqaLXBj3uBLX3d4JzpuTEKpPlMQ9AUvlF9tb3Zfqh2aleJapmDyfUQ2dc4UHCuamGit8WotVwW3YTsdSAXNu1vyx0b1CQFRgJKtTmlcyK37WE9Gh7HV8pnJOLAitXCzceapfz2wFizbsfr2duDok34Q7w5+4I/90Ce4MsOk5UwbIz825dQ7+PM0CjR5zjpfn65KzwJWPzPOt4IL2a1EAo/Gfqj1i5LiGWYRvAsD3a6uEKWa6efudycO2AWxwMH3FjjEd8BA/mMYMKyif4fh4Tth8E/UB7yEwfOC/frwtRhItPo6DvEthz1BEUbrdTcgwwCjTWSVaAxt3ByC4t1NcjTlvCWsPVMuQRdAKQwxh5aVKGdZac6G9rg7GYYA07eKtQ0ULE3NMotHZvruDG/YgRaMG/8fgb+Amek+bGMX7WrhDVv8AP89Wf04XXW62OzCSPZ/AA==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="851px" height="592px" viewBox="-0.5 -0.5 851 592" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-06-20T20:36:02.258Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36&quot; etag=&quot;DAthLnkBv_ih9WHNRdy8&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7ZbLjtsgFIafhr0NiS/LxElmFjPqIouuiX1io8EmIuTWpy/YEJva1cxI0bRSSxbB/zmA+b+DDCJZfX2S9FC9igI4wkFxRWSFMA7JLNR/Rrl1SjIPOqGUrLBJvbBlP8CKLu3ECjh6iUoIrtjBF3PRNJArT6NSioufthfcX/VASxgJ25zysfqdFaqyahilfeAZWFnZpRMcd4Edzd9KKU6NXQ9hkmUb3bpwTd1cdqPHihbiMpDIGpFMCqG6Xn3NgBtvnW3duM1vovf3ltCojwyIugFnyk/g3rh9L3VzXrS7AZMfIrK8VEzB9kBzE71o+lqrVM1teM84zwQXsh1L9nPz0/pRSfEGg0jUNjNCNGqgd03r453YzZ1BKrgOJLuzJxA1KHnTKS7qqs5WoTP90iONU6tVA5o4siK1ZVTep+6t1B3r5rSz83/JWRJ+0FoSPMBa/L61+lwdTDe/caY9lu/7u+tgvOzuwv0ofzspPQtMg4gCmobxFAi8iiO93RGIfdseAwLPfBDJmEMYTHBIH4CB/MfgMMTxn8Mw+5swhDsaAp7CEATRerH5Wgwz8oUc0jGHNUEJRotF2yGug9EysUpyDy39HILS1Sg56XN+JawNUj5BH0AjDDGPlpUoZ2VjakPb3laGsZvpq9DCBmpWFGaZyZLpP2HuhG1ozbjx/xn4GcxMj2Gb+mjnE2Qnv+WfJ6sf+wtYGxvccsn6Jw==&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(204, 255, 255);">
     <defs/>
     <g>
-        <rect x="0" y="0" width="790" height="260" rx="39" ry="39" fill="#ffffff" stroke="#000000" pointer-events="all"/>
-        <rect x="0" y="270" width="790" height="300" rx="45" ry="45" fill="#ffffff" stroke="#000000" pointer-events="all"/>
-        <path d="M 110 88 C 110 64 210 64 210 88 L 210 142 C 210 166 110 166 110 142 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 110 88 C 110 106 210 106 210 88" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 570 88 C 570 64 670 64 670 88 L 670 142 C 670 166 570 166 570 142 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 570 88 C 570 106 670 106 670 88" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 570 393 C 570 369 670 369 670 393 L 670 447 C 670 471 570 471 570 447 Z" fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 570 393 C 570 411 670 411 670 393" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
-        <rect x="80" y="40" width="190" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <rect x="60" y="0" width="790" height="260" rx="39" ry="39" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <rect x="60" y="290" width="790" height="300" rx="45" ry="45" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 150 78 C 150 54 250 54 250 78 L 250 132 C 250 156 150 156 150 132 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 150 78 C 150 96 250 96 250 78" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 680 78 C 680 54 780 54 780 78 L 780 132 C 780 156 680 156 680 132 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 680 78 C 680 96 780 96 780 78" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 680 428 C 680 404 780 404 780 428 L 780 482 C 780 506 680 506 680 482 Z" fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 680 428 C 680 446 780 446 780 428" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="30" width="190" height="20" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 50px; margin-left: 81px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 40px; margin-left: 1px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 オリジナルリポジトリ
@@ -21,7 +21,7 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="175" y="54" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="95" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     オリジナルリポジトリ
                 </text>
             </switch>
