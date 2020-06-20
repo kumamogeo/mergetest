@@ -1,19 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="851px" height="592px" viewBox="-0.5 -0.5 851 592" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-06-20T20:36:02.258Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36&quot; etag=&quot;DAthLnkBv_ih9WHNRdy8&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7ZbLjtsgFIafhr0NiS/LxElmFjPqIouuiX1io8EmIuTWpy/YEJva1cxI0bRSSxbB/zmA+b+DDCJZfX2S9FC9igI4wkFxRWSFMA7JLNR/Rrl1SjIPOqGUrLBJvbBlP8CKLu3ECjh6iUoIrtjBF3PRNJArT6NSioufthfcX/VASxgJ25zysfqdFaqyahilfeAZWFnZpRMcd4Edzd9KKU6NXQ9hkmUb3bpwTd1cdqPHihbiMpDIGpFMCqG6Xn3NgBtvnW3duM1vovf3ltCojwyIugFnyk/g3rh9L3VzXrS7AZMfIrK8VEzB9kBzE71o+lqrVM1teM84zwQXsh1L9nPz0/pRSfEGg0jUNjNCNGqgd03r453YzZ1BKrgOJLuzJxA1KHnTKS7qqs5WoTP90iONU6tVA5o4siK1ZVTep+6t1B3r5rSz83/JWRJ+0FoSPMBa/L61+lwdTDe/caY9lu/7u+tgvOzuwv0ofzspPQtMg4gCmobxFAi8iiO93RGIfdseAwLPfBDJmEMYTHBIH4CB/MfgMMTxn8Mw+5swhDsaAp7CEATRerH5Wgwz8oUc0jGHNUEJRotF2yGug9EysUpyDy39HILS1Sg56XN+JawNUj5BH0AjDDGPlpUoZ2VjakPb3laGsZvpq9DCBmpWFGaZyZLpP2HuhG1ozbjx/xn4GcxMj2Gb+mjnE2Qnv+WfJ6sf+wtYGxvccsn6Jw==&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(204, 255, 255);">
-    <defs/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="801px" height="581px" viewBox="-0.5 -0.5 801 581" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-06-20T20:42:11.157Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36&quot; etag=&quot;yLPJ6qxS5ILHpnltG7m2&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7VfJktsgEP0aXVOSkGTp6HXmkFRSNYdMjli0ZWqQcGG85esDAu3McvBULoOrXPC6gea9ZpGHluX1QeDD/gcnwLzQJ1cPrbwwTONA/WvgZgHfN0AhKDFQ0AFP9C9YsHE7UQLHgaPknEl6GII5ryrI5QDDQvDL0G3H2XDWAy5gAjzlmE3R35TIvUWDJOsMj0CLvZ06DWfGsMX5SyH4qbLzeSFaLjeqGHOJm7HsQo97TPilB6G1h5aCc2lq5XUJTFPb0Gb6bV6xtnELqORHOiSmwxmzEzQR13HJW8NFvRrQ/oGHFpc9lfB0wLm2XpT4CtvLklnzjjK25IyLui/aYZKRWOFHKfgL9CwYogCp5S6mEdtFnEFIuPYgu4IH4CVIcVMujbVh02ZbbJuXTrpZZrF9T7UwsSC26VK0Q3eUqYplzc1g/MkMxvrnYjCpi+7BK9nDTbkTs2jILEIfpBb5d6A2fJ9atX8OuprfGFUci/f53Roxvm9boN2yP09SjQJuIQiGdJc7hchT2O6UpRCYUBiIMQOcgH8fMcJoKEYQTcUIfIcY2R20QF9a9LVIZv9Ri+hLi7e0iByH1KdpkU21WCMvDb35vK6gphJ6i9QiaWtaDH2Ql60mzmnnM1ZZESSHKmJGi0rrruisVdc0UvWwmVtDSQnR3Z3p0F1Uvr1XNrikTPP6COwMeqRRBlRcJ8b4DvLrcqdjb3S7t1L25XVe73eQN/jAuQcVmes3p6ad4eORmt2AhWxgS1L/ln+FL7hS+Wx9dP2P1uJbbFurq5Wmbtxsw7G9shnxZzPHZo0hJZFrs6bhFtWviebk2DG42vgXanBxe27m1o1eXLrZBVa3mshqEjZUs7vqsgHI5PE9SY8jP4kcBs8ANVYBzfPCnTG9jIgdCdFgAhiW9DwMwpUldoZfnKrw2oSMstGjKBolmgne9uo/vkcDxaMLfXIgmSVPBlKy4FvP7aAdjm8EnIx20PijYBzX+HIb+quKiaDbQa0Grk2lmt0HjXHvPhrR+h8=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(204, 255, 255);">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dae8fc-1-7ea6e0-1-s-0">
+            <stop offset="0%" style="stop-color:#dae8fc"/>
+            <stop offset="100%" style="stop-color:#7ea6e0"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-d5e8d4-1-97d077-1-s-0">
+            <stop offset="0%" style="stop-color:#d5e8d4"/>
+            <stop offset="100%" style="stop-color:#97d077"/>
+        </linearGradient>
+    </defs>
     <g>
-        <rect x="60" y="0" width="790" height="260" rx="39" ry="39" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
-        <rect x="60" y="290" width="790" height="300" rx="45" ry="45" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
-        <path d="M 150 78 C 150 54 250 54 250 78 L 250 132 C 250 156 150 156 150 132 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 150 78 C 150 96 250 96 250 78" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 680 78 C 680 54 780 54 780 78 L 780 132 C 780 156 680 156 680 132 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 680 78 C 680 96 780 96 780 78" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 680 428 C 680 404 780 404 780 428 L 780 482 C 780 506 680 506 680 482 Z" fill="#1ba1e2" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 680 428 C 680 446 780 446 780 428" fill="none" stroke="#006eaf" stroke-miterlimit="10" pointer-events="all"/>
-        <rect x="0" y="30" width="190" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <rect x="0" y="0" width="790" height="260" rx="39" ry="39" fill="#fad9d5" stroke="#ae4132" pointer-events="all"/>
+        <rect x="10" y="280" width="790" height="300" rx="45" ry="45" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 120 108 C 120 84 220 84 220 108 L 220 162 C 220 186 120 186 120 162 Z" fill="url(#mx-gradient-dae8fc-1-7ea6e0-1-s-0)" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 120 108 C 120 126 220 126 220 108" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 550 108 C 550 84 650 84 650 108 L 650 162 C 650 186 550 186 550 162 Z" fill="url(#mx-gradient-dae8fc-1-7ea6e0-1-s-0)" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 550 108 C 550 126 650 126 650 108" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 550 398 C 550 374 650 374 650 398 L 650 452 C 650 476 550 476 550 452 Z" fill="url(#mx-gradient-dae8fc-1-7ea6e0-1-s-0)" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 550 398 C 550 416 650 416 650 398" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="100" y="50" width="190" height="20" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 60px; margin-left: 101px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 オリジナルリポジトリ
@@ -21,11 +30,13 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="95" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="195" y="64" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     オリジナルリポジトリ
                 </text>
             </switch>
         </g>
+        <path d="M 222.82 139.16 L 218.06 130.37 L 336.5 66.21 Q 338.73 65 341.27 65 L 448.52 65 Q 451.48 65 453.97 66.62 L 536.38 120.18 L 542.1 111.38 L 549.58 134.73 L 525.2 137.37 L 530.93 128.56 L 448.52 75 L 341.27 75 Z" fill="url(#mx-gradient-d5e8d4-1-97d077-1-s-0)" stroke="#82b366" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 536.38 120.18 L 542.1 111.38 L 549.58 134.73 L 525.2 137.37 L 530.93 128.56" fill="none" stroke="#82b366" stroke-linejoin="flat" stroke-miterlimit="4" pointer-events="all"/>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
